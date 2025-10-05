@@ -367,5 +367,3 @@ ngrok http 80
 ### 📄 Licença sugerida
 
 Inclua um arquivo `LICENSE` com **MIT License** ou outra de sua preferência, e um `.gitignore` básico (ex.: `*.log`, `*.swp`, `.DS_Store`).
-#   G L P I - 1 1  
- 
